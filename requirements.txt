@@ -2,7 +2,7 @@ flask
 flask-cors
 deepface
 opencv-python-headless
-tensorflow
+tensorflow-cpu
 numpy
 pillow
 gunicorn
